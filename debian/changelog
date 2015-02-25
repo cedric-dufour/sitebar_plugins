@@ -1,0 +1,6 @@
+sitebar-plugins (3.4~git20140211) UNRELEASED; urgency=low
+
+  * Debianize upstream (https://github.com/brablc/sitebar_plugins)
+
+ -- Cedric Dufour <cedric.dufour@ced-network.net>  Wed, 25 Feb 2015 12:38:38 +0100
+

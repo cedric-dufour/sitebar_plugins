@@ -1,0 +1,28 @@
+Source: sitebar-plugins
+Section: web
+Priority: optional
+Maintainer: Cedric Dufour <cedric.dufour@ced-network.net>
+Standards-Version: 3.9.0
+Build-Depends: debhelper (>=5.0)
+Homepage: http://sitebar.org/
+
+Package: sitebar-imap
+Architecture: all
+Depends: ${misc:Depends}, sitebar, php5-imap
+Description: Online Bookmark Manager - IMAP authentication plugin
+
+Package: sitebar-ldap
+Architecture: all
+Depends: ${misc:Depends}, sitebar, php5-ldap
+Description: Online Bookmark Manager - LDAP authentication plugin
+
+Package: sitebar-nofavicons
+Architecture: all
+Depends: ${misc:Depends}, sitebar
+Description: Online Bookmark Manager - disable favicons plugin
+
+Package: sitebar-xbelsync
+Architecture: all
+Depends: ${misc:Depends}, sitebar
+Description: Online Bookmark Manager - XBEL synchronization plugin
+

@@ -1,0 +1,3 @@
+IMAP/*.php /usr/share/sitebar/plugins/IMAP/
+IMAP/locale /usr/share/sitebar/plugins/IMAP/
+IMAP/*.txt /usr/share/doc/sitebar-imap/

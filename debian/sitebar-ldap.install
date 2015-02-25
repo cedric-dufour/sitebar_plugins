@@ -1,0 +1,3 @@
+LDAP/*.php /usr/share/sitebar/plugins/LDAP/
+LDAP/locale /usr/share/sitebar/plugins/LDAP/
+LDAP/*.txt /usr/share/doc/sitebar-ldap/
