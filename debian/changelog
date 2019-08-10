@@ -1,3 +1,9 @@
+sitebar-plugins (3.4~git20140212) UNRELEASED; urgency=low
+
+  * debian: PHP 7 friendly dependencies
+
+ -- Cédric Dufour <cedric.dufour@ced-network.net>  Sat, 10 Aug 2019 15:19:23 +0200
+
 sitebar-plugins (3.4~git20140211) UNRELEASED; urgency=low
 
   * Debianize upstream (https://github.com/brablc/sitebar_plugins)
